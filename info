@@ -1,0 +1,4 @@
+Lodaing data- This file contains the script to load the image data for 2D image model training.
+Training_model - This script contains the model used for classifying 3D objects using 2D images as input data.
+test_model - This script tests the trained model in Training_model.ipynb on validation dataset.
+working_3d_model - This script contains the complete code for working of the 3D object classification model built using transfer learning from PointNet model.
